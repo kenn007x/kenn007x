@@ -6,7 +6,7 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-[![My Skills](https://skillicons.dev/icons?i=python,cs,vscode,figma,wordpress,arduino,linux,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,vscode,php,unity,figma,wordpress,arduino,linux,mysql)](https://skillicons.dev)
 
 
 ### 📬 Contact Me : ken34109@gmail.com
