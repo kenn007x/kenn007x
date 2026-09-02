@@ -6,4 +6,4 @@ looking for Internship -Iot development , app design
 
 contract me ken34109@gmail.com
 
-knowledge : fawfwaaaaaaaa
+knowledge : #00599C
