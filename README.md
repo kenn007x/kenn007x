@@ -6,4 +6,4 @@ looking for Internship -Iot development , app design
 
 contract me ken34109@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,vscode,figma,ps,wordpress,arduino,linux,mysql)](https://skillicons.dev)
+Skills: [![My Skills](https://skillicons.dev/icons?i=python,cs,vscode,figma,wordpress,arduino,linux,mysql)](https://skillicons.dev)
