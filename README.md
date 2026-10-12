@@ -1,7 +1,7 @@
 # Hi, I'm Kanatip 👋
 
 🎓 **Student at Mae Fah Luang University**  
-💡 **Looking for Internship:** IoT Development | IT 
+💡 **Looking for Internship:** IoT Development | IT Support
 
 ---
 
