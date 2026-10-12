@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,cs,c,cpp,vscode,php,unity,figma,wordpress,arduino,linux,mysql)](https://skillicons.dev)
 
 
-### 📬 Contact Me : ken34109@gmail.com
+### 📬 Contact Me : kanatipjo@gmail.com
 
 
 ### Github
